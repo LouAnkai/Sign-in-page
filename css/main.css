@@ -1,0 +1,81 @@
+body {
+  margin:0px;
+  padding:0px;
+  overflow-x: hidden;
+  background-color: white;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: ligher;
+}
+.image-container {
+  display: block;
+  margin: 10px;
+  text-align: center;
+}
+
+.card {
+  margin: 0px 60px;
+  padding: 20px;
+}
+
+.form-text {
+  font-weight: bold;
+  font-size: 80%;
+}
+
+.forgot-password {
+  display:inline;
+  float:right;
+  font-weight: lighter;
+}
+
+form>button {
+  width:100%;
+  border-radius: 5px;
+  background-color: orange;
+  padding: 10px;
+  font-size: 80%;
+}
+
+.form-check{
+  margin-top: 10px
+}
+
+.form-check-label {
+  font-size: 80%;
+}
+
+.new {
+  text-align:center;
+  margin: 20px 0px 5px 0px;
+  font-size: 70%;
+  font-weight: 200;
+}
+
+div>button {
+  width:100%;
+  border-radius: 5px;
+  background-color: grey;
+  padding: 10px;
+  font-size: 80%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px 0px 0px 89px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.link {
+  float: left;
+  padding-left: 20px;
+  font-size: 70%;
+}
+
+.copyright {
+  margin: 10px 0px 0px 100px;
+  font-size: 70%;
+}
